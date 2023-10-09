@@ -19,14 +19,11 @@ User-based Filtering (KNN Algorithm): Utilizes the K-Nearest Neighbors algorithm
 Whether you're interested in the theoretical underpinnings of recommendation systems or want to dive into the practical implementation, this project provides a hands-on learning experience.
 
 ## Implemented Recommendation Algorithms
-#### Popularity-based Collaborative Filtering: 
-  This algorithm recommends movies based on their overall popularity among users. It's a simple yet effective way to introduce users to popular titles.
+Popularity-based Collaborative Filtering: This algorithm recommends movies based on their overall popularity among users. It's a simple yet effective way to introduce users to popular titles.
 
-#### Content-based Filtering: 
-  Content-based recommendations leverage movie attributes to suggest similar films. If a user enjoys action movies, for instance, this algorithm will suggest other action-packed titles.
+Content-based Filtering: Content-based recommendations leverage movie attributes to suggest similar films. If a user enjoys action movies, for instance, this algorithm will suggest other action-packed titles.
 
-#### User-based Filtering (KNN Algorithm): 
-  By implementing the K-Nearest Neighbors algorithm, this approach identifies users with similar movie preferences and suggests films they have enjoyed.
+User-based Filtering (KNN Algorithm): By implementing the K-Nearest Neighbors algorithm, this approach identifies users with similar movie preferences and suggests films they have enjoyed.
 
 ## Data
 To build and evaluate the recommendation systems, we use a rich dataset containing movie information, user ratings, and more. This dataset has been carefully selected and preprocessed to facilitate the learning process and provide a comprehensive understanding of recommendation algorithms.
